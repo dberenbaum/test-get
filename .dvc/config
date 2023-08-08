@@ -1,0 +1,7 @@
+[core]
+    remote = store
+[cache]
+    dir = /tmp/9814/cache
+    type = reflink,symlink
+['remote "store"']
+    url = /tmp/9814/store
